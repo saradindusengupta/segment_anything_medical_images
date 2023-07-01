@@ -2,7 +2,7 @@
 
 ## Structure of the Repository
 
-This repository uses `setuptool` to create packages and uses `toml` file for package configuration
+This repository uses `setuptool` to create packages and uses `toml` file for package configuration. The same config file can be used for `poetry` as well
 
 ```text
 ├── Dockerfile               # The file to build a container using build a or docker container
